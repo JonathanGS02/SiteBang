@@ -1,0 +1,18 @@
+.navbar{
+    background-color: #424242;
+    border-bottom: 1px solid #E0515A;
+}
+
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+    color: #E0515A;
+}
+
+.navbar-expand-lg .navbar-collapse {
+    padding-left: 70%;
+}
+
+.logoHome img{
+    width: 50px;
+}
+
+

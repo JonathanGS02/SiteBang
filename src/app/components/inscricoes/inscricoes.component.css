@@ -1,0 +1,100 @@
+var{
+    --cor-borda: #E0515A;
+}
+
+.container{
+    margin-top: 2%;
+}
+
+.card{
+    background-color: #424242;
+    border: solid 1px  #E0515A;
+    box-shadow: 5px 5px 10px black;
+}
+
+.card-header{
+    font-family: Squada One;
+    color: white;
+    font-size: 1.5rem;
+    border-bottom: solid 1px  #E0515A;
+    background-color: #424242;
+}
+
+.form-label{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.linha1{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1%;
+}
+  
+  .Nome,
+  .Nascimento {
+    flex: 1;
+    margin-right: 10px; 
+  }
+
+  .form-control{
+    border-color: #E0515A;
+  }
+  
+.linha2{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1%;
+}
+
+.Cidade,
+.CEP {
+  flex: 1;
+  margin-right: 10px; 
+}
+
+.linha3{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1%;
+}
+
+.Bairro,
+.Rua,
+.NºResidência{
+  flex: 1;
+  margin-right: 10px;
+}
+
+.linha4{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1%;
+}
+
+.Instituicao,
+.Comprovante{
+  flex: 1;
+  margin-right: 10px;
+}
+
+.form-select{
+    border-color: #E0515A;
+}
+
+.button {
+        display: flex;
+        margin-right: 2%;
+        margin-bottom: 2%;
+        justify-content: flex-end;
+}
+
+.btn{
+    background-color: #424242;
+    border: solid 1px #E0515A;
+}
+
+.btn:hover{
+        background-color: #E0515A;
+        border: solid 1px #E0515A;
+}
+ 

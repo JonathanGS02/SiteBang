@@ -1,0 +1,46 @@
+.container{
+    margin-top: 2%;
+}
+
+.ConhecaBang{
+    font-size: 3.3em;
+    font-family: Squada One;
+    color: white;
+}
+
+.text-box{
+    width: 425px;
+    height: 55px;
+    flex-shrink: 0; 
+}
+
+.text{
+    color: white;
+}
+
+.BtnSaibaMais{
+    background-color: transparent;
+    border: none;
+}
+
+.BtnSaibaMais img{
+    width: 22.5em;
+}
+
+.img-fluid{
+    border-radius: 10px;
+}
+
+.coluna1{
+    margin-bottom: 2%;
+    margin-right: 2%;
+    width: 22.5em; 
+}
+
+.img2{
+    width: 80%;
+}
+
+.row{
+    justify-content: space-between;
+}

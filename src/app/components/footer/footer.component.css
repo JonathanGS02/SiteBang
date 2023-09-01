@@ -1,0 +1,27 @@
+footer {
+    background-color: transparent;
+    padding: 20px 0;
+    bottom: 0;
+
+    margin: 0 auto;
+  }
+  footer[_ngcontent-ng-c2722023693] {
+    background-color: transparent;
+    padding: 20px 0;
+}
+
+.hrcolor{
+    color: #E0515A;
+}
+
+.Descricao{
+    font-size: 1rem;
+}
+
+.IconFooter{
+    height: 40px;
+}
+
+.RedesSociais{
+    font-family: Squada One;
+}
